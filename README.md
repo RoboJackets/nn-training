@@ -1,4 +1,3 @@
-![Image of NN](3b.png)
 # Neural Network Training
 
 **Objective**: Learn how to implement state-of-the-art neural networks for object detection and other relevant tasks 
