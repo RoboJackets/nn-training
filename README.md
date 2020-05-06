@@ -1,10 +1,9 @@
+![Image of NN](3b.png)
 # Neural Network Training
 
 **Objective**: Learn how to implement state-of-the-art neural networks for object detection and other relevant tasks 
 
 **Note**: *For all .ipynb files, open the notebook in Google Colaboratory instead of GitHub’s viewer.*
-
-![]()
 
 **Lesson 1: Basic Machine Learning and Deep Learning**
 + Read and implement the code from [an introduction to machine learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) and [HackerEarth's practical tutorial on data manipulation with Numpy and Pandas in Python
