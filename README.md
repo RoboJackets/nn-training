@@ -4,9 +4,7 @@
 
 **Note**: *For all .ipynb files, open the notebook in Google Colaboratory instead of GitHub’s viewer.*
 
-<p align="center">
-  <img src="https://github.com/RoboJackets/nn-training/blob/master/nn.png">
-</p>
+![]()
 
 **Lesson 1: Basic Machine Learning and Deep Learning**
 + Read and implement the code from [an introduction to machine learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) and [HackerEarth's practical tutorial on data manipulation with Numpy and Pandas in Python
