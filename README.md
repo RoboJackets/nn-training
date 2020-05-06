@@ -16,3 +16,5 @@ Lesson 3: Segmentation Models in Catalyst
 
 Lesson 4: (Optional) Further Exploration 
 + Learn about and adhere to the [Pytorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
++ Complete the [fast.ai](https://www.fast.ai/) courses
++ Explore the many detailed [tutorials](https://pytorch.org/tutorials/) offered by PyTorch
