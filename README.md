@@ -21,4 +21,4 @@
 + Learn about and adhere to the [Pytorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
 + Complete the [fast.ai courses](https://www.fast.ai/) or [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 + Explore the many detailed [tutorials](https://pytorch.org/tutorials/) offered by PyTorch
-+ Check out at [Chris Albon's website](https://chrisalbon.com/)
++ Check out [Chris Albon's website](https://chrisalbon.com/)
