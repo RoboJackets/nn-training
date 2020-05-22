@@ -13,10 +13,10 @@
 + ***Optional:*** Complete [Prof. Mark Riedl's PyTorch Primer](https://colab.research.google.com/drive/1DgkVmi6GksWOByhYVQpyUB4Rk3PUq0Cp) or [the official PyTorch 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 **Lesson 3: Segmentation Models and Catalyst**
-+ **Guided walkthrough of the IGVC semantic segmentation model coming soon**
++ Study [Lesson_Three.ipynb](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.ipynb). Once again, [a PDF version](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.pdf) has also been provided
 + ***Optional:*** Go through the official [Catalyst](https://github.com/catalyst-team/catalyst) or [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) tutorials
 
-**Lesson 4: Optional Further Studies**
+**Lesson 4: Further Studies (Optional)**
 + Learn about and adhere to the [Pytorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
 + Complete the [fast.ai courses](https://www.fast.ai/) or [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 + Explore the many detailed [tutorials](https://pytorch.org/tutorials/) offered by PyTorch
