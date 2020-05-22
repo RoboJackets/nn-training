@@ -16,7 +16,7 @@
 + **Guided walkthrough of the IGVC semantic segmentation model coming soon**
 + ***Optional:*** Go through the [official Catalyst tutorials](https://github.com/catalyst-team/catalyst)
 
-**Lesson 4: Optional Further Studies***
+**Lesson 4: Optional Further Studies**
 + Learn about and adhere to the [Pytorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
 + Complete the [fast.ai courses](https://www.fast.ai/) or [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
 + Explore the many detailed [tutorials](https://pytorch.org/tutorials/) offered by PyTorch
