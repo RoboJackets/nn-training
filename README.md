@@ -9,10 +9,10 @@
 ](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
 
 **Lesson 2: Neural Networks in PyTorch**
-+ Read and complete the exercises in [Lesson_Two.ipynb.](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Two.ipynb) A [PDF version](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Two.pdf) is also provided for your convenience. 
++ Read and complete the exercises in [Lesson_Two.ipynb.](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Two.ipynb) A [PDF version](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Two.pdf) is also provided for convenience. 
 
 **Lesson 3: Segmentation Models and Catalyst**
-+ Study [Lesson_Three.ipynb](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.ipynb). Once again, [a PDF version](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.pdf) has also been provided
++ Study [Lesson_Three.ipynb](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.ipynb). Once again, there is also [a PDF version](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.pdf).
 
 **Lesson 4: Further Studies (Optional)**
 + Explore the many detailed tutorials offered by [PyTorch](https://pytorch.org/tutorials/), [Catalyst,](https://github.com/catalyst-team/catalyst) or [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
