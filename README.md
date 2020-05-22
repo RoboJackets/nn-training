@@ -9,7 +9,7 @@
 ](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
 
 **Lesson 2: Neural Networks in PyTorch**
-+ Read and complete the exercises in [Lesson_Two.ipynb.](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Two.ipynb) A PDF version is also provided for your convenience. 
++ Read and complete the exercises in [Lesson_Two.ipynb.](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Two.ipynb) A [PDF version](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Two.pdf) is also provided for your convenience. 
 + ***Optional:*** Complete [Prof. Mark Riedl's PyTorch Primer](https://colab.research.google.com/drive/1DgkVmi6GksWOByhYVQpyUB4Rk3PUq0Cp) or [the official PyTorch 60 minute blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 
 **Lesson 3: Segmentation Models and Catalyst**
