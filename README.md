@@ -14,7 +14,7 @@
 
 **Lesson 3: Segmentation Models and Catalyst**
 + **Guided walkthrough of the IGVC semantic segmentation model coming soon**
-+ ***Optional:*** Go through the [official Catalyst tutorials](https://github.com/catalyst-team/catalyst)
++ ***Optional:*** Go through the official [Catalyst](https://github.com/catalyst-team/catalyst) or [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning) tutorials
 
 **Lesson 4: Optional Further Studies**
 + Learn about and adhere to the [Pytorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
