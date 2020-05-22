@@ -4,7 +4,7 @@
 
 **Note**: *For all .ipynb files, open the notebook in Google Colaboratory instead of GitHub’s viewer.*
 
-**Lesson 1: The Fundamentals of Machine Learning**
+**Lesson 1: Machine Learning Fundamentals**
 + Implement and play with the code from [an introduction to machine learning with scikit-learn](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) and [HackerEarth's practical tutorial on data manipulation with Numpy and Pandas in Python
 ](https://www.hackerearth.com/practice/machine-learning/data-manipulation-visualisation-r-python/tutorial-data-manipulation-numpy-pandas-python/tutorial/)
 
