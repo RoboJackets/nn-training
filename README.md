@@ -15,7 +15,9 @@
 + Study [Lesson_Three.ipynb](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.ipynb). Once again, there is also [a PDF version](https://github.com/RoboJackets/nn-training/blob/master/Lesson_Three.pdf).
 
 **Lesson 4: Further Studies (Optional)**
-+ Explore the many detailed tutorials offered by [PyTorch](https://pytorch.org/tutorials/), [Catalyst,](https://github.com/catalyst-team/catalyst) or [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
-+ Learn about and adhere to the [Pytorch Style Guide](https://github.com/IgorSusmelj/pytorch-styleguide)
-+ Check out [Chris Albon's website](https://chrisalbon.com/)
-+ Complete the [fast.ai courses](https://www.fast.ai/) or [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course)
++ Courses on Deep Learning: [Fast.ai](https://www.fast.ai/); [Google's ML Crash Course](https://developers.google.com/machine-learning/crash-course); [Udacity](https://www.udacity.com/georgia-tech)
++ Books: [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning); [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
++ Useful Blogs: [CodeBug88](https://pabloinsente.github.io/); [Chris Albon](https://chrisalbon.com/)
++ Framework Tutorials:  [PyTorch](https://pytorch.org/tutorials/); [Catalyst](https://github.com/catalyst-team/catalyst); [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning)
++ Lectures and Papers: [UCL x DeepMind: Deep Learning Lecture Series](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF); [Roadmap of Research Papers](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
++ Other: [Twitter Thread on Advanced Resources](https://twitter.com/jeremyphoward/status/1294586542162235392?s=19)
